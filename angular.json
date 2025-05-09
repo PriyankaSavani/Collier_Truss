@@ -31,12 +31,7 @@
                                         "glob": "**/*",
                                         "input": "public"
                                    },
-                                   "src/assets",
-                                   {
-                                        "glob": "_redirects",
-                                        "input": "src",
-                                        "output": "/"
-                                   }
+                                   "src/assets"
                               ],
                               "styles": [
                                    "src/assets/scss/theme.scss",
