@@ -26,7 +26,7 @@ export class FeaturesComponent {
                          feature_link: ''
                     }
                ],
-               feature_image: '../../../assets/images/Henry -- Factory and Event Shoot -- Final/Photo-11.jpg'
+               feature_image: '../../../assets/images/Henry_Factory_and_Event_Shoot_Final/Photo-11.jpg'
 
           },
           {
@@ -44,7 +44,7 @@ export class FeaturesComponent {
                          feature_link: ''
                     }
                ],
-               feature_image: '../../../assets/images/Henry -- Factory and Event Shoot -- Final/Photo-10.jpg'
+               feature_image: '../../../assets/images/Henry_Factory_and_Event_Shoot_Final/Photo-10.jpg'
 
           }
 
